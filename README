@@ -1,0 +1,13 @@
+#Personality Quiz
+
+#Project Aim
+Personality quiz that asks users multiple choice questions, to determin eif they have an introverted or extroverted personality .
+
+#Structure
+Organized into three main java classes
+PersonalityQuestions.java represents a single personality question, including the question, answers, and scores.
+QuestionsQuiz.java contains quiz logic, stores and tracks progress, and calculates the result.
+QuizGUI.java  contains the user interfaces
+
+#Contributor
+Chaliyah Moore
